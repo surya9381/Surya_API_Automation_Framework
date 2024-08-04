@@ -1,0 +1,8 @@
+[INFO ] 2024-08-04 23:45:48.272 [main] UserTest - ********** User is creating ************
+[INFO ] 2024-08-04 23:45:51.997 [main] UserTest - ********** User is created ************
+[INFO ] 2024-08-04 23:45:52.005 [main] UserTest - ********** Getting user details ************
+[INFO ] 2024-08-04 23:45:53.553 [main] UserTest - ********** User details displayed ************
+[INFO ] 2024-08-04 23:45:53.558 [main] UserTest - ********** Updating user details ************
+[INFO ] 2024-08-04 23:45:56.277 [main] UserTest - ********** Updated user details ************
+[INFO ] 2024-08-04 23:45:56.292 [main] UserTest - ********** Deleting user details ************
+[INFO ] 2024-08-04 23:45:57.707 [main] UserTest - ********** Deleted user details ************
